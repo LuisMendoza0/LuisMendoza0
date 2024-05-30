@@ -1,4 +1,5 @@
-**Módulo II: Modelos Estadísticos 📊**//
+**Módulo II: Modelos Estadísticos 📊**
+
 ¡Hola! Soy Luis Mendoza, estudiante de Actuaría. Ahora estoy tomando el diplomado en Técnicas Estadísticas y Minería de Datos como opción para titularme.
 
 **¿De qué trata el curso?**
