@@ -3,6 +3,7 @@
 ¡Hola! Soy Luis Mendoza, estudiante de Actuaría. Ahora estoy tomando el diplomado en Técnicas Estadísticas y Minería de Datos como opción para titularme.
 
 **¿De qué trata el curso?**
+
 Este curso se enfoca en aprender y aplicar modelos estadísticos avanzados. Vamos a explorar diferentes técnicas estadísticas y métodos de minería de datos que nos ayudarán a analizar y sacar información útil de grandes conjuntos de datos. 📈
 
 **Objetivos personales del curso**
@@ -18,5 +19,6 @@ Este curso se enfoca en aprender y aplicar modelos estadísticos avanzados. Vamo
 - Presentaciones y reportes: Preparar y presentar informes sobre los análisis y modelos que desarrollemos, mejorando mis habilidades de comunicación y presentación. 📝
 
 **Metas a largo plazo**
+
 - Con este curso, no solo quiero mejorar lo que ya aprendí en la carrera, sino también obtener nuevas herramientas y enfoques que me ayuden a destacar en el campo de la Actuaría. Mi objetivo es usar estas habilidades de manera efectiva para analizar riesgos, tomar decisiones y resolver problemas complejos en el ámbito profesional. 🚀
 
