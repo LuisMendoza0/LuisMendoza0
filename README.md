@@ -9,12 +9,12 @@ Este curso se enfoca en aprender y aplicar modelos estadísticos avanzados. Vamo
 **Objetivos personales del curso**
 - Reforzar conocimientos: Profundizar en lo que ya sé sobre estadística y probabilidad.
 - Aprender cosas nuevas: Ampliar mi entendimiento de estos temas para poder aplicarlos en la vida real.
-- Desarrollar habilidades prácticas: Usar herramientas y lenguajes de programación como R y Python que son súper útiles en el mundo laboral. 💻
+- Desarrollar habilidades prácticas: Usar herramientas y lenguajes de programación como Python que es súper útil en el mundo laboral. 💻
 
 **Actividades que planeo hacer**
 - Análisis de datos: Trabajar con datos reales para encontrar patrones y tendencias.
 - Crear modelos: Desarrollar y evaluar modelos estadísticos para hacer predicciones y tomar decisiones.
-- Programación: Implementar técnicas de análisis y modelos usando R y Python, lo cual facilita el manejo y visualización de datos.
+- Programación: Implementar técnicas de análisis y modelos Python, lo cual facilita el manejo y visualización de datos.
 - Proyectos en equipo: Participar en proyectos grupales que simulan situaciones reales de trabajo, lo que fomenta el trabajo en equipo y la resolución de problemas.
 - Presentaciones y reportes: Preparar y presentar informes sobre los análisis y modelos que desarrollemos, mejorando mis habilidades de comunicación y presentación. 📝
 
